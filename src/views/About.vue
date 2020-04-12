@@ -1,5 +1,7 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <v-container class="fill-height">
+    <v-row justify="center" align="center">
+      <h1>About Page</h1>
+    </v-row>
+  </v-container>
 </template>
