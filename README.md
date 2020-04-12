@@ -1,4 +1,4 @@
-# school-app
+# Vue Js started Tempalte with Vuetify
 
 ## Project setup
 ```
